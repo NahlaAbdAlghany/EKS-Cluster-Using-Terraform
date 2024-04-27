@@ -48,7 +48,7 @@ Before you begin, ensure you have the following prerequisites:
 
 ## Deployment YAML File
 
-Find the deployment YAML file [here](k8s/deployment.yaml) to deploy resources onto the EKS cluster.
+Find the deployment YAML file [here](EKS-Cluster-Using-Terraform/k8s/) to deploy resources onto the EKS cluster.
 
 ## Clean Up
 
